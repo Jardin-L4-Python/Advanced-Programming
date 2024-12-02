@@ -1,0 +1,15 @@
+4792, Ariana Grande, 19, 13, 16, 41
+5389, Billie Eilish, 10, 15, 13, 55
+4618, Bruno Mars, 20, 16, 19, 95
+1293, Demi Lovato, 18, 15, 19, 79
+8349, Ed Sheeran, 19, 16, 12, 65
+2832, Jeon Somi, 16, 10, 11, 90
+7924, Jordin Sparks, 11, 14, 10, 87
+5728, Justin Beiber, 10, 14, 20, 55
+6834, Katy Perry, 12, 12, 10, 83
+6489, Sabrina Carpenter, 14, 18, 20, 70
+6273, Selena Gomez, 15, 20, 20, 65
+3389, Shawn Mendes, 20, 20, 18, 58
+5182, Taylor Swift, 15, 18, 12, 70
+7790, Tori Kelly, 20, 20, 20, 95
+5462, Zack Tabudlo, 20, 15, 19, 61
